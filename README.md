@@ -16,4 +16,4 @@ With fold-map.rkt, you get that nice perfomance boost when you use
 ```
 
 ## Planned Features
-I plan to add support for multiple lists as arguments
+I plan to add support for multiple lists as arguments.
